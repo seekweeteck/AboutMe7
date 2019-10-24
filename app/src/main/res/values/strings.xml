@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">See Kwee Teck</string>
+    <string name="profile_pic">Profile Picture</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSRJK Cheng Siew, Batu Pahat\n
+        \n\tSMK Kolam Air, Batu Pahat\n
+        \n\tTAR UC, Kuala Lumpur\n
+        \n\tLiverpool John Moores, UK\n
+        \n\tMultimedia University, Malaysia\n
+        \nWorking Experiences:
+        \n\tSales Assistant, The Store\n
+        \n\tCashier, Parkson Batu Pahat\n
+        \n\tProgrammer, Maxigrid Sdn Bhd\n
+        \n\tLecturer, TAR UC
+    </string>
+</resources>
